@@ -27,7 +27,7 @@ namespace BinaryFileWriteRead
 
 
 
-            Console.WriteLine("Completed!");
+            Console.WriteLine("Conversion is completed!");
 
             Console.ReadLine();
 
